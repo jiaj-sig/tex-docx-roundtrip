@@ -1,0 +1,3 @@
+interface:
+  display_name: "LaTeX ↔ Word 双向编辑"
+  short_description: "将 LaTeX 手稿转换为可编辑的 Word 文档，并在用户修改后将改动同步回 .tex 源文件。"
